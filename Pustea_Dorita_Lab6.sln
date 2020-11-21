@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.64
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pustea_Dorita_Lab6", "Pustea_Dorita_Lab6.csproj", "{E8648CB5-39FB-4E35-A424-980458EDC306}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel", "..\AutoLotModel\AutoLotModel.csproj", "{095A56C3-7EFB-451A-974E-45A6D61BB1AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8648CB5-39FB-4E35-A424-980458EDC306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8648CB5-39FB-4E35-A424-980458EDC306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8648CB5-39FB-4E35-A424-980458EDC306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8648CB5-39FB-4E35-A424-980458EDC306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{095A56C3-7EFB-451A-974E-45A6D61BB1AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{095A56C3-7EFB-451A-974E-45A6D61BB1AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{095A56C3-7EFB-451A-974E-45A6D61BB1AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{095A56C3-7EFB-451A-974E-45A6D61BB1AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E988B243-72B0-4390-B493-9958ED822EBD}
+	EndGlobalSection
+EndGlobal
